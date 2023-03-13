@@ -1,0 +1,23 @@
+.details {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: 14px;
+  color: var(--colors-gray-80);
+}
+.spacer {
+  padding: 0 0.25rem;
+}
+.platform {
+  font-weight: 600;
+}
+.icon {
+  margin: 0 0 0 0.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.icon > svg {
+  width: 1rem;
+  height: 1rem;
+}

@@ -1,0 +1,11 @@
+:root {
+  --colors-gray-90: #24374e;
+  --colors-gray-80: #435369;
+  --colors-gray-30: #e9edf4;
+  --colors-blue-50: #cee3ff;
+}
+
+html {
+  font-size: 16px;
+  font-family: 'Lota', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}

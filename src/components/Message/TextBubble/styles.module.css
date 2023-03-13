@@ -1,0 +1,14 @@
+.messageBubble {
+  border-radius: 6px;
+  font-size: 14px;
+  padding: 1rem;
+  color: var(--colors-gray-90);
+}
+
+.incoming {
+  background: var(--colors-gray-30);
+}
+
+.outgoing {
+  background: var(--colors-blue-50);
+}
